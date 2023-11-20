@@ -3,16 +3,19 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🎓 Estudando **3º ano do ensino médio** no <a href="https://qedu.org.br/escola/52019977-escola-estadual-origenes-lemes-da-silva">
+  Escola Estadual Orígenes Lemes da Silva</a>.
+- 💼 Trabalhando como **Desenvolvedor Full-Stack Freelancer** na <a href="https://www.workana.com/pt">Workana</a>
+- 🌱 &nbsp; Aprendendo mais sobre **JavaScript**.
 
 <h3>Minhas Skills</h3>
 
-**Desenvolvimento back-end**
-
+**Desenvolvimento Front-end**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Desenvolvimento back-end**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge).
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
