@@ -3,7 +3,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **3º ano do ensino médio** no <a href="https://qedu.org.br/escola/52019977-escola-estadual-origenes-lemes-da-silva">
+- 🎓 Estudando **3º ano do ensino médio** na <a href="https://qedu.org.br/escola/52019977-escola-estadual-origenes-lemes-da-silva">
   Escola Estadual Orígenes Lemes da Silva</a>.
 - 💼 Trabalhando como **Desenvolvedor Full-Stack Freelancer** na <a href="https://www.workana.com/pt">Workana</a>
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript**.
@@ -35,7 +35,7 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Henrique">
+<a href="https://github.com/henriquejsza" title="Perfil do Henrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
 </a>
 
