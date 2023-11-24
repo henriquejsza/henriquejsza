@@ -35,10 +35,6 @@
 
 <br/>
 
-<a href="https://github.com/henriquejsza" title="Perfil do Henrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
-
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-henriquejsza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquejsza)](https://www.linkedin.com/in/henriquejsza)
