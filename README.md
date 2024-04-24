@@ -3,12 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou goiano, tenho 17 anos e sou <strong>Desenvolvedor Full-Stack</strong>.
-
-Estou terminando o Ensino Médio em 2023 e estou pronto para dar início à minha jornada na graduação, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor.
-
-Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
-
+  Meu nome é Henrique José de Souza, tenho 17 anos e atualmente estou cursando Ciência da Computação na UNOPAR. Também estou participando de cursos e bootcamps relacionados para me tornar um desenvolvedor back-end.
 <h2 align="left">
  💻 Tecnologias:
 </h2>
