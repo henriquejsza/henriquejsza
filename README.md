@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  tenho 17 anos e atualmente estou cursando Ciência da Computação na UNOPAR. Também estou participando de cursos e bootcamps relacionados para me tornar um desenvolvedor back-end.
+  tenho 19 anos e atualmente estou cursando Ciência da Computação na UNOPAR. Também estou participando de cursos e bootcamps relacionados para me tornar um desenvolvedor back-end.
 <h2 align="left">
  💻 Tecnologias:
 </h2>
