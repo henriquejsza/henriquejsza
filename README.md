@@ -61,6 +61,13 @@
 - **[Woodex](https://github.com/henriquejsza/woodex):** Front-end para um projeto com layout moderno inspirado na Apple.
 - Outros projetos em desenvolvimento e melhorias contínuas!
 
+## 🗓️ Contribuições
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Contribuições%20no%20último%20ano-1836%20--green" alt="Contribuições no último ano" />
+  <img src="https://img.shields.io/badge/Commits%20Total-1836%20--green" alt="Commits Total" />
+</p>
+
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px" alt="contact"> Para Mais Informações, Por Favor Confira ou Conecte-se Comigo Através de
 
 <p align="center">
@@ -81,7 +88,8 @@
   </a>
 </p>
 
-<div align="center" style="background-color: #1F1F1F; padding: 20px; border-radius: 10px; color: white; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);">
-  <p><em>"Nunca é tarde - nunca é tarde para recomeçar, nunca é tarde para ser feliz."</em></p>
+<div align="center" style="background-color: #1F1F1F; padding: 20px; border-radius: 10px; margin-top: 20px;">
+  <p style="color: white; font-size: 14px;">Faça o que você ama e ame o que você faz. Nunca é tarde para recomeçar!</p>
 </div>
+
 
