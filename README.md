@@ -52,9 +52,20 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web e mobil
 
 ## 🏆 Certificações
 
-- <strong>Bootcamp GFT Start #6</strong> - Concluído (DIO)
-- <strong>Curso de HTML, CSS e JavaScript</strong> - Em andamento
-- <strong>Curso de PHP e MySQL</strong> - Concluído
+- **Bootcamp GFT Start #6** - Lógica de Programação com JavaScript (DIO)
+  - Abordou fundamentos de lógica de programação utilizando JavaScript, incluindo estruturas de controle, funções e arrays.
+
+- **Curso de Lógica de Programação** - Alura (C/C++)
+  - Ensinou princípios básicos de lógica de programação, com foco em algoritmos e resolução de problemas usando C/C++.
+
+- **Curso PHP do Zero à Maestria**
+  - Abrangeu conceitos fundamentais de PHP, POO (Programação Orientada a Objetos), Design Patterns e integração com bancos de dados.
+
+- **Curso de Desenvolvimento Web + 50 Projetos Reais**
+  - Proporcionou aprendizado prático em HTML, CSS e JavaScript através de projetos reais, do básico ao avançado.
+
+- **Domine PHP, HTML, CSS, JavaScript, Banco de Dados, Curso Web Completo**
+  - Partindo dos fundamentos até projetos reais, este curso abordou: HTML, CSS, JavaScript, PHP, MySQL, jQuery, AJAX, conceitos da web, APIs, e gerenciamento de sessão e cookies.
 
 ## 🔥 Projetos
 
@@ -81,8 +92,3 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web e mobil
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
-
-<div align="center" style="background-color: #1F1F1F; padding: 20px; border-radius: 10px; margin-top: 20px;">
-  <p style="color: white;">"Nunca é tarde - nunca é tarde para recomeçar, nunca é tarde para ser feliz".</p>
-</div>
-
