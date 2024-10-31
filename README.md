@@ -42,13 +42,9 @@
   <img src="https://img.shields.io/badge/InfinityFree-4A8FFF?style=for-the-badge&logoColor=white" height="30"/>
 </div>
 
-## 🔍 O Que Estou Aprendendo
+## 🏆 Portfólio
 
-Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web e mobile, explorando novas tecnologias como:
-
-- **React.js**: Uma biblioteca poderosa para construir interfaces de usuário.
-- **Node.js**: Um ambiente de execução para JavaScript no back-end.
-- **APIs REST**: Aprendendo a criar e consumir APIs para integração de sistemas.
+Você pode conferir meu portfólio [aqui](https://seu-link-do-portfolio.com).
 
 ## 🏆 Certificações
 
@@ -92,3 +88,4 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web e mobil
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
+
