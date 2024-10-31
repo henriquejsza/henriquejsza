@@ -42,12 +42,13 @@
   <img src="https://img.shields.io/badge/InfinityFree-4A8FFF?style=for-the-badge&logoColor=white" height="30"/>
 </div>
 
-## 📈 Estatísticas do GitHub
+## 🔍 O Que Estou Aprendendo
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henriquejsza&show_icons=true&theme=dark&hide_border=true" width="400" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquejsza&layout=compact&theme=dark&hide_border=true" width="335" alt="Top Langs"/>
-</p>
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web e mobile, explorando novas tecnologias como:
+
+- **React.js**: Uma biblioteca poderosa para construir interfaces de usuário.
+- **Node.js**: Um ambiente de execução para JavaScript no back-end.
+- **APIs REST**: Aprendendo a criar e consumir APIs para integração de sistemas.
 
 ## 🏆 Certificações
 
@@ -60,13 +61,6 @@
 - **[Ranked Match Calculator](https://github.com/henriquejsza/ranked-match-calculator):** Calcula o saldo de vitórias e classifica o jogador em um nível com base nas vitórias.
 - **[Woodex](https://github.com/henriquejsza/woodex):** Front-end para um projeto com layout moderno inspirado na Apple.
 - Outros projetos em desenvolvimento e melhorias contínuas!
-
-## 🗓️ Contribuições
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Contribuições%20no%20último%20ano-1836%20--green" alt="Contribuições no último ano" />
-  <img src="https://img.shields.io/badge/Commits%20Total-1836%20--green" alt="Commits Total" />
-</p>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px" alt="contact"> Para Mais Informações, Por Favor Confira ou Conecte-se Comigo Através de
 
@@ -89,7 +83,6 @@
 </p>
 
 <div align="center" style="background-color: #1F1F1F; padding: 20px; border-radius: 10px; margin-top: 20px;">
-  <p style="color: white; font-size: 14px;">Faça o que você ama e ame o que você faz. Nunca é tarde para recomeçar!</p>
+  <p style="color: white;">"Nunca é tarde - nunca é tarde para recomeçar, nunca é tarde para ser feliz".</p>
 </div>
-
 
