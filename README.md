@@ -2,13 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=trueOverview&height=60&width=600&lines=Heyyy!+Eu+sou+Henrique!;Bem-vindo+ao+meu+perfil!" alt="Título">
 </div>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px" alt="wave"> Sobre Mim
+## <div align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px" alt="wave"> Sobre Mim</div>
 
-- :credit_card: Meu nome é **Henrique José de Souza** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/><br>
-- :school: Tenho **18 anos** esou estudante de **Sistemas de Informação na UFBRA**.<br>
+<div align="center">
+- :credit_card: Meu nome é **Henrique José de Souza**<br>
+- :school: Tenho **18 anos** e sou estudante de **Sistemas de Informação na UFBRA**.<br>
 - :books: Estou focado na área de **desenvolvimento web**, com interesse em **Back-end e Front-end**.<br>
 - :earth_asia: Resido em **Goiânia, Goiás**.<br>
 - :briefcase: Busco experiências práticas por meio de **estágios** e **projetos colaborativos**, visando criar soluções que impactem positivamente as pessoas.<br>
+</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px" alt="skills"> Habilidades
 
@@ -29,6 +31,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"/>
 </p>
 
 ## 💼 Portfólio
@@ -58,6 +61,5 @@
 
 <div align="center" style="background-color: #1F1F1F; padding: 20px; border-radius: 10px; color: white; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);">
   <h4>💖 Agradeço pela visita ao meu perfil! Tenha um ótimo dia! 💖</h4>
-  <p>© 2023 Henrique José de Souza</p>
+  <p>© 2024 Henrique José de Souza</p>
 </div>
-
