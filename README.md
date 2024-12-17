@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px" alt="wave">
   <h2 style="color: white;">Sobre Mim</h2>
   <p style="color: white; font-size: 16px; line-height: 1.6; max-width: 800px; margin: 0 auto;">
-    Olá! Meu nome é <strong>Henrique José de Souza</strong>, tenho <strong>18 anos</strong> e sou estudante de <strong>Sistemas de Informação na UFBRA</strong>. Apaixonado por <strong>desenvolvimento web</strong>, me dedico tanto ao <strong>Back-end</strong> quanto ao <strong>Front-end</strong>, com um forte interesse em criar soluções que fazem a diferença. Atualmente moro em <strong>Goiânia, Goiás</strong>, e busco sempre oportunidades para aplicar meus conhecimentos por meio de <strong>estágios</strong> e <strong>projetos colaborativos</strong>.
+    Olá! Meu nome é <strong>Henrique José de Souza</strong>, tenho <strong>18 anos</strong> e sou estudante de <strong>Engenharia de Software</strong>. Apaixonado por <strong>desenvolvimento web</strong>, me dedico tanto ao <strong>Back-end</strong> quanto ao <strong>Front-end</strong>, com um forte interesse em criar soluções que fazem a diferença. Atualmente moro em <strong>Goiânia, Goiás</strong>
   </p>
 </div>
 
