@@ -6,9 +6,15 @@
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px" alt="wave">
   <h2 style="color: white;">Sobre Mim</h2>
   <p style="color: white; font-size: 16px; line-height: 1.6; max-width: 800px; margin: 0 auto;">
-    Olá! Meu nome é <strong>Henrique José de Souza</strong>, tenho <strong>18 anos</strong> e sou estudante de <strong>Engenharia de Software</strong>. Apaixonado por <strong>desenvolvimento web</strong>, me dedico tanto ao <strong>Back-end</strong> quanto ao <strong>Front-end</strong>, com um forte interesse em criar soluções que fazem a diferença. Atualmente moro em <strong>Goiânia, Goiás</strong>
+    Olá! Meu nome é <strong>Henrique José de Souza</strong>, tenho <strong>18 anos</strong> e sou estudante de <strong>Engenharia de Software</strong>. Apaixonado por <strong>desenvolvimento web</strong>, me dedico tanto ao <strong>Back-end</strong> quanto ao <strong>Front-end</strong>, com um forte interesse em criar soluções que fazem a diferença. Atualmente moro em <strong>Goiânia, Goiás</strong>.
   </p>
 </div>
+
+<p align="center">
+  <a href="https://github.com/henriquejsza">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px" alt="skills"> Habilidades
 
